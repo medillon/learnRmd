@@ -2,7 +2,7 @@
 title: "learnRmd"
 author: "Michael Dillon"
 date: "December 7, 2018"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
